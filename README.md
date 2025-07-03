@@ -7,6 +7,6 @@ A Python project to detect faces in images using MTCNN and OpenCV.
 - Utilizes pre-trained MTCNN deep learning model
 
 Technologies Used
-- Python 3.x
+- Python 
 - OpenCV
 - MTCNN (Keras implementation)
